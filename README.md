@@ -1,4 +1,4 @@
-<!-- ## Waitlist application API using NodeJS, ExpressJS, MongoDB..
+## Waitlist application API using NodeJS, ExpressJS, MongoDB..
 
 ### Objective of this application
 
@@ -18,13 +18,13 @@
 
 ## Register
 
-    https://aravind-referal-url.herokuapp.com/users/register
+   https://joyce-referal-url-server.herokuapp.com/users/register
 
 - User can Register with a "name", "email" "password".
 
 ## Login
 
-    https://aravind-referal-url.herokuapp.com/users/login
+    https://joyce-referal-url-server.herokuapp.com/users/login
 
 - User can Login with a "name", "email" "password".
 
@@ -35,15 +35,15 @@
 
 ## Links for Admin's Process
 
-- Link to CREATE a new User : `https://aravind-referal-url.herokuapp.com/admin/post`
-- Link to UPDATE a User : `https://aravind-referal-url.herokuapp.com/admin/update/:id`
-- Link to DELETE a User : `https://aravind-referal-url.herokuapp.com/admin/delete/:id`
-- Link to READ ALL Users : `https://aravind-referal-url.herokuapp.com/admin/get/all`
-- Link to READ A SINGLE User : `https://aravind-referal-url.herokuapp.com/admin/get/:id`
+- Link to CREATE a new User : `https://joyce-referal-url-server.herokuapp.com/admin/post`
+- Link to UPDATE a User : `https://joyce-referal-url-server.herokuapp.com/admin/update/:id`
+- Link to DELETE a User : `https://joyce-referal-url-server.herokuapp.com/admin/delete/:id`
+- Link to READ ALL Users : `https://joyce-referal-url-server.herokuapp.com/admin/get/all`
+- Link to READ A SINGLE User : `https://joyce-referal-url-server.herokuapp.com/admin/get/:id`
 
 ## Links for User's Process
 
-- Link to UPDATE His/Her Details : `https://aravind-referal-url.herokuapp.com/users/update/:id`
-- Link to DELETE His/Her Account : `https://aravind-referal-url.herokuapp.com/users/delete/:id`
-- Link to READ ALL Users : `https://aravind-referal-url.herokuapp.com/users/get/all`
-- Link to READ A SINGLE User : `https://aravind-referal-url.herokuapp.com/users/get/:id` -->
+- Link to UPDATE His/Her Details : `https://joyce-referal-url-server.herokuapp.com/users/update/:id`
+- Link to DELETE His/Her Account : `https://joyce-referal-url-server.herokuapp.com/users/delete/:id`
+- Link to READ ALL Users : `https://joyce-referal-url-server.herokuapp.com/users/get/all`
+- Link to READ A SINGLE User : `https://joyce-referal-url-server.herokuapp.com/users/get/:id` 
