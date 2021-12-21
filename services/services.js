@@ -80,7 +80,7 @@ const services = {
         let name = data.name;
         name = name.split(" ").join("");
         console.log(name);
-        referalLink = `http:localhost:5000/users/login/${data.CreatedDate}/${name}/${data._id}`;
+        referalLink = `https://joyce-referal-url-server.herokuapp.com/users/login/${data.CreatedDate}/${name}/${data._id}`;
 
         // CHECKING WEATHER THE USER REGISTERED WITH A REFERAL LINK
         if (data.refered_id) {
